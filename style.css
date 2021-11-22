@@ -1,0 +1,57 @@
+#bannerimage {
+    width: 850px;
+    height: 200px ;
+    background-image: url(images/fliesbanner.png);
+    background-position: center;
+    margin: auto;
+  }
+
+  body {
+      background-color: black;
+  }
+
+  h2 {
+      color: lightcoral;
+      font-family: "Courier New"
+  }
+
+  p {
+      color: lightcoral;
+      font-family:'Courier New';
+  }
+
+  #displayBal {
+      color: lightcoral;
+      font-family: "Courier New";
+      text-align: center;
+  }
+
+  .buttons {
+      color: black;
+      background-color: lightcoral;
+      padding: 8px 28px;
+      font-size: 16px;
+      border-radius: 9px;
+      border-color: black;
+      border-width: 6px;
+  }
+
+  .labs {
+      color: lightcoral;
+      font-family: "Courier New";
+  }
+
+  .inputs {
+      border: 2px solid lightcoral;
+      border-radius: 4px;
+      background-color: black;
+      color: white;
+      width: 60px;
+      
+  }
+
+  .gallery {
+      border: 2px solid lightcoral;
+      border-radius: 10px;
+  }
+
